@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					31D92AE41F67744D005E5D4A = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = 3KKFT9P6YJ;
 						ProvisioningStyle = Automatic;
 					};
 					31D92AF81F67744D005E5D4A = {
@@ -414,6 +415,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 3KKFT9P6YJ;
 				INFOPLIST_FILE = "shopify-application-winter2017/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "ElisaKazan.shopify-application-winter2017";
@@ -426,6 +428,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 3KKFT9P6YJ;
 				INFOPLIST_FILE = "shopify-application-winter2017/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "ElisaKazan.shopify-application-winter2017";
